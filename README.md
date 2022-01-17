@@ -7,7 +7,7 @@ The purpose of this project is to refactor the solution code effectively to make
 This analysis looks at the total daily volume and returns relying upon the year of stocks in the data set.
 
 ## Results
-The stock performance in 2017 gave more positive returns in 2018.  The visualizations is pictured below.
+The stock performance in 2017 gave more positive returns in 2018.  
 
 
 ## Summary
