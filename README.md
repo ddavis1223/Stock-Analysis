@@ -8,6 +8,7 @@ This analysis looks at the total daily volume and returns relying upon the year 
 
 ## Results
 The stock performance in 2017 gave more positive returns in 2018.  
+!(Resources/VBA_Challenge_2017_Chart.png)
 
 
 ## Summary
