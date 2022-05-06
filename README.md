@@ -16,7 +16,7 @@ Likely benefits of refractoring may incorporate further develop code comprehensi
 The disadvantages of refractoring code is that its time consuming.
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
-![Refactored2017](Resources/Refactored2017.png)
-![Refactored2018](Resources/Refactored2018.png)
+![execution_time_original_2017](Resources/execution_time_original_2017.png)
+![execution_time_original_2018](Resources/execution_time_original_2018.png)
 
 
